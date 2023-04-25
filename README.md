@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate junior developer
 -----------------------------
 
-I'm a fun-loving and honest individual who's passionate about learning and all things tech
+Hi there! I'm Furkan, a hardworking and fun person who is passionate about coding and technology. I'm always looking for new challenges and opportunities to learn and grow. Thanks for stopping by my GitHub page!
 
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [https://mfulgen.vercel.app/](http://mfulgen.vercel.app/)
