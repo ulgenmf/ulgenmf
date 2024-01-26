@@ -1,18 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Furkan
-==============================================================================================================================
-
-A passionate junior developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 -----------------------------
 
-Hi there! I'm Furkan, a hardworking and fun person who is passionate about coding and technology. I'm always looking for new challenges and opportunities to learn and grow. Thanks for stopping by my GitHub page!
 
-* 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [https://mfulgen.vercel.app/](http://mfulgen.vercel.app/)
-* ✉️  You can contact me at [ulgenmf@gmail.com](mailto:ulgenmf@gmail.com)
-* 🧠  I'm learning a new framework
-* ⚡  I can't wait get myself into professional field
+* 🌍 * 🖥️ * ✉️  * 🧠 * ⚡  
 
-### Skills
 
 
 <p align="left">
@@ -33,6 +24,5 @@ Hi there! I'm Furkan, a hardworking and fun person who is passionate about codin
 </p>
 
 
-### Socials
 
 <p align="left"> <a href="https://discord.com/users/10▌│█0101║▌▌0101#3002" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ulgenmf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mfulgen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
