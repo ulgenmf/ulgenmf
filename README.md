@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi ![](https://github.com/ulgenmf/ulgenmf/blob/main/8mpzf6.gif?raw=true)
 -----------------------------
 ![Rubic's cube, remote][(https://giphy.com/gifs/computer-technology-ai-sE1fbQPozKg3q5I2W2)]
 [(https://giphy.com/gifs/computer-technology-ai-sE1fbQPozKg3q5I2W2)]
