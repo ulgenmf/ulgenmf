@@ -1,9 +1,7 @@
-Hi ![](https://github.com/ulgenmf/ulgenmf/blob/main/8mpzf6.gif?raw=true)
+Hi !
 -----------------------------
-![Rubic's cube, remote][(https://giphy.com/gifs/computer-technology-ai-sE1fbQPozKg3q5I2W2)]
-[(https://giphy.com/gifs/computer-technology-ai-sE1fbQPozKg3q5I2W2)]
-<iframe src="https://giphy.com/embed/sE1fbQPozKg3q5I2W2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-technology-ai-sE1fbQPozKg3q5I2W2">via GIPHY</a></p>
-![](https://giphy.com/embed/sE1fbQPozKg3q5I2W2)
+
+![](https://github.com/ulgenmf/ulgenmf/blob/main/8mpzf6.gif?raw=true)
 
 
 <p align="left">
