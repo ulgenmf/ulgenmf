@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 -----------------------------
-
+![Rubic's cube, remote](https://media.giphy.com/media/V25gdutt6iuWc/giphy.gif)
 
 <iframe src="https://giphy.com/embed/sE1fbQPozKg3q5I2W2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-technology-ai-sE1fbQPozKg3q5I2W2">via GIPHY</a></p>
 ![](https://giphy.com/embed/sE1fbQPozKg3q5I2W2)
